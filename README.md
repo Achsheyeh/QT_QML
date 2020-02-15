@@ -2,7 +2,7 @@
 Qt works
 
 1. Working on QT Api and uploaded the codes containing sample usage of the provided API. Each .cpp file contains correspoing .pro file.
-2. Take a combination of .cpp and corresponding .pro file into separate directory and run the following command
+2. Take a combination of .cpp and corresponding .pro file into separate directory.
    for ex, TryCursor is the directory name containing Cursors.cpp and Cursors.pro
    Go to TryCursor directory and run the following to get the makefile
    
